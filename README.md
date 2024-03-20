@@ -10,7 +10,7 @@ SB Skate blade is a geometric and minimalistic fonts constructed with a few geom
 
 # Author:
 Vlrn (Silverblur_type)
-https://github.com/vlrnfonts/fonts | vlrnfonts@gmail.com
+https://github.com/vlrnfonts/fonts | vlrntype@gmail.com
 
 # License:
 Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/fonts | vlrntype@gmail.com),
