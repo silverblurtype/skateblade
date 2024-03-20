@@ -16,5 +16,5 @@ https://github.com/vlrnfonts/fonts | vlrntype@gmail.com
 Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/fonts | vlrntype@gmail.com),
 with Reserved Font Name "SB Skate blade".
 
-[Download](sb_skate_blade/SBSkateblade-Regular.otf)
+# [Download](sb_skate_blade/SBSkateblade-Regular.otf)
 
