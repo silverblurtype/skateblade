@@ -17,7 +17,7 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 https://openfontlicense.org
 
 If you feel that the font has been useful, feel free to donate any amount you think is most appropriate. donations are optional but much appreciated.
-https://www.paypal.com/paypalme/silverblurtype
+https://www.paypal.me/silverblurtype
 
 
 ## [Download](https://github.com/silverblurtype/fonts/raw/main/sb_skate_blade/SBSkateblade-Regular.otf)
