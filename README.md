@@ -19,6 +19,8 @@ https://openfontlicense.org
 If you feel that the font has been useful, feel free to donate any amount you think is most appropriate. donations are optional but much appreciated.
 https://www.paypal.me/silverblurtype
 
+Or support me on: ko-fi.com/silverblurtype
+
 
 ## [Download](https://github.com/silverblurtype/fonts/raw/main/sb_skate_blade/SBSkateblade-Regular.otf)
 
