@@ -16,10 +16,9 @@ with Reserved Font Name "SB Skate blade".
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
 
-If you feel that the font has been useful, feel free to donate any amount you think is most appropriate. donations are optional but much appreciated.
+If you feel that the font has been useful, feel free to donate any amount you think is most appropriate. Donations are optional, but highly appreciated and allow the development and improvement of this and other typefaces.
 https://www.paypal.me/silverblurtype
-
-Or support me on: [ko-fi.com/silverblurtype](https://ko-fi.com/silverblurtype)
+[ko-fi.com/silverblurtype](https://ko-fi.com/silverblurtype)
 
 
 ## [Download](https://github.com/silverblurtype/fonts/raw/main/sb_skate_blade/SBSkateblade-Regular.otf)
