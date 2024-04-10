@@ -19,6 +19,7 @@ https://openfontlicense.org
 If you feel that the font has been useful, feel free to donate any amount you think is most appropriate. Donations are optional, but highly appreciated and allow the development and improvement of this and other typefaces.
 
 https://www.paypal.me/silverblurtype
+
 [ko-fi.com/silverblurtype](https://ko-fi.com/silverblurtype)
 
 
