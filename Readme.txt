@@ -2,7 +2,6 @@ SB Skate blade Family Font
 
 Author: Valeriano (Silverblur_type)
 https://github.com/silverblurtype/sb-skateblade | vlrntype@gmail.com
-X:@silverblur_type
 -------------------------------------------------------------------
 
 SB Skate blade is a geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
