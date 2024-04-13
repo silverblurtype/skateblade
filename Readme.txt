@@ -1,6 +1,6 @@
 SB Skate blade Family Font
 
-Author: Valeriano (Silverblur_type)
+Author: Valerio Brotto (Silverblur_type)
 https://github.com/silverblurtype/sb-skateblade | vlrntype@gmail.com
 -------------------------------------------------------------------
 
