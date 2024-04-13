@@ -22,5 +22,5 @@ https://www.paypal.me/silverblurtype
 [ko-fi.com/silverblurtype](https://ko-fi.com/silverblurtype)
 
 
-## [Download](https://github.com/silverblurtype/sb-skateblade/blob/main/SB_Skate_blade-2_0/font/SBSkateblade-Regular.otf "download")
+## [Download](blob:https://github.com/db0a430b-9848-42b7-9302-550a1ba1ed03)
 
