@@ -21,9 +21,7 @@ https://openfontlicense.org
 ## Contribute:
 If you feel that the font has been useful, feel free to donate any amount you think is most appropriate. Donations are optional, but highly appreciated and allow the development and improvement of this and other typefaces.
 
-https://www.paypal.me/silverblurtype
-
-[ko-fi.com/silverblurtype](https://ko-fi.com/silverblurtype)
+https://www.paypal.me/silverblurtype | [ko-fi.com/silverblurtype](https://ko-fi.com/silverblurtype)
 
 
 ## [Download](https://github.com/silverblurtype/sb-skateblade/blob/ae2a7616e4d2e997b0c269f402e51840b0f4278d/SB_Skate_blade-2_0/font/SBSkateblade-Regular.otf)
