@@ -11,11 +11,14 @@ SB Skate blade is a modern, geometric and minimalistic fonts constructed with a 
 ![4](https://github.com/silverblurtype/sb-skateblade/assets/163983174/4564b33d-1bb2-4ad4-b88c-5435e18062c4)
 
 ## Changelog:
-v. 2.0 kerning adjustments
+v. 2.0
+- kerning adjustments
+- Regular Italic
+
 
 ## License:
-Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/sb-skateblade),
-with Reserved Font Name "SB Skate blade".
+Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/sb-skateblade)
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
 https://openfontlicense.org
