@@ -8,6 +8,8 @@ SB Skate blade is a modern, geometric and minimalistic fonts constructed with a 
 
 ![1080](https://github.com/silverblurtype/sb-skateblade/assets/163983174/99892fbc-43f6-4146-b866-3d0329091dff)
 
+![4](https://github.com/silverblurtype/sb-skateblade/assets/163983174/4564b33d-1bb2-4ad4-b88c-5435e18062c4)
+
 ## Changelog:
 v. 2.0 kerning adjustments
 
