@@ -27,5 +27,5 @@ https://openfontlicense.org
 
 
 
-## [Download](https://github.com/silverblurtype/sb-skateblade/releases/tag/Font)
+## [Download](https://github.com/silverblurtype/skateblade/releases/download/Font/Skateblade_2.zip)
 
