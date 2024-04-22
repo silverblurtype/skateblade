@@ -18,7 +18,7 @@ v. 2.0
 
 
 ## License:
-Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/sb-skateblade)
+Copyright (c) 2024, Silverblur_type (https://github.com/silverblurtype/skateblade)
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at:
