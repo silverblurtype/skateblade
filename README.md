@@ -1,6 +1,6 @@
-## SB Skate blade
+## Skate blade
 
-SB Skate blade is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
+Skate blade is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness. This font is suitable for graphic projects, logos and branding.
 
 ![Introducing](https://github.com/silverblurtype/sb-skateblade/assets/163983174/7a5f50b4-9a57-47c7-a1c5-cbffb33785af)
 
