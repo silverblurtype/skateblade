@@ -12,7 +12,7 @@ Skate blade is a modern, geometric and minimalistic fonts constructed with a few
 
 
 ## Changelog:
-v. 2.0
+v. 2.1
 - kerning adjustments
 - Regular Italic
 
