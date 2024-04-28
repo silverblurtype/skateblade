@@ -4,7 +4,7 @@
 
 Skate blade is a modern, geometric and minimalistic fonts constructed with a few geometric shapes with constant thickness.
 
-Type of usage: graphic projects, logos, branding, packaging.
+Type of usage: graphic projects, logos, branding.
 
 ![Font_specimen 2](https://github.com/silverblurtype/sb-skateblade/assets/163983174/fbda2617-bbdd-4b9f-8252-d13a70762ee7)
 
@@ -25,7 +25,7 @@ https://openfontlicense.org
 ## Contribute:
 If you feel that the font could be useful to you, you can sponsor the project with any amount you deem appropriate. Contributions are optional but highly appreciated.
 
-https://www.paypal.com/paypalme/vlrntype
+[Paypal](https://www.paypal.com/paypalme/vlrntype)
 
 I’m very grateful for any support.
 
