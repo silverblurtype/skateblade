@@ -23,7 +23,9 @@ https://openfontlicense.org
 
 ## Contribute:
 If you feel that the font could be useful to you, you can sponsor the project with any amount you deem appropriate. Contributions are optional but highly appreciated.
+
 https://www.paypal.com/paypalme/vlrntype
+
 I’m very grateful for any support.
 
 ## [Download](https://github.com/silverblurtype/skateblade/releases/download/Font/Skateblade_2.zip)
