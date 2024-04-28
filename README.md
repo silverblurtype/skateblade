@@ -31,5 +31,7 @@ If you feel that the font could be useful to you, you can sponsor the project wi
 
 I’m very grateful for any support.
 
-## [Download](https://github.com/silverblurtype/skateblade/releases/download/Font/Skateblade_2.zip)
+## Download:
+
+[](
 
