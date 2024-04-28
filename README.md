@@ -33,5 +33,5 @@ I’m very grateful for any support.
 
 ## Download:
 
-[](
+[Skateblade-2.1](https://github.com/silverblurtype/skateblade/releases/download/Font/Skateblade-2_1.zip)
 
